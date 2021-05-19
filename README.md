@@ -4,7 +4,7 @@
 https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?project=lexical-script-761
 
 
-SQL-like query for calculating the following metrics using Google BigQuery
+SQL-like queries for calculating the following metrics using Google BigQuery and Google Analytics Sample data:
 - Total Pageviews
 - Total Unique Pageviews
 - Total Entrances
